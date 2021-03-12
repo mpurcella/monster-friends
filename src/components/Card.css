@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Name Smile Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Name Smile Regular'), url('Name Smile.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'DM Mono Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DM Mono Regular'), url('DMMono-Regular.woff') format('woff');
+}
+    
+
+h2 {
+    font-family: 'Name Smile Regular';
+}
+
+p {
+    font-family: 'DM Mono Regular';
+}
